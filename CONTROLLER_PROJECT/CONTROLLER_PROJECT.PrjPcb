@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for CONTROLLER_PROJECT
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -91,6 +91,66 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for CONTROLLER_PROJECT\BOM\Bill of Materials-CONTROLLER_PCB.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for CONTROLLER_PROJECT\NC Drill\CONTROLLER_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for CONTROLLER_PROJECT\Gerber\CONTROLLER_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for CONTROLLER_PROJECT\Gerber\CONTROLLER_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for CONTROLLER_PROJECT\Gerber\CONTROLLER_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for CONTROLLER_PROJECT\Gerber\CONTROLLER_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for CONTROLLER_PROJECT\Gerber\CONTROLLER_PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for CONTROLLER_PROJECT\Gerber\CONTROLLER_PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for CONTROLLER_PROJECT\Gerber\CONTROLLER_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for CONTROLLER_PROJECT\Gerber\CONTROLLER_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for CONTROLLER_PROJECT\Gerber\CONTROLLER_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for CONTROLLER_PROJECT\NC Drill\CONTROLLER_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for CONTROLLER_PROJECT\Gerber\CONTROLLER_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for CONTROLLER_PROJECT\Gerber\CONTROLLER_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for CONTROLLER_PROJECT\NC Drill\CONTROLLER_PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
 DocumentPath=Project Outputs for CONTROLLER_PROJECT\Design Rule Check - CONTROLLER_PCB.html
 DItemRevisionGUID=
 
@@ -103,6 +163,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for CONTROLLER_PROJECT
 
 [OutputGroup1]
 Name=Netlist Outputs
